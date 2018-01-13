@@ -41,3 +41,8 @@ the now defunct branch).
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Automatic merging is quicker and less effort and works accurately for purely adding stuff
+and purely deleting stuff. However, it is unable to resolve conflicts when the same lines 
+are edited, and in these situations it is much safer to manually determine which line edits
+to keep.

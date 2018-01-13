@@ -34,5 +34,10 @@ via arrows) between commits.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Merging combines the commits made in two separate branches in a way that makes logical
+sense (changes from one branch to not conflict with the other). The diagram shows how the 
+new merged together branch has access to all of the commits from both branches (including 
+the now defunct branch).
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?

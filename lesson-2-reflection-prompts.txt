@@ -27,6 +27,10 @@ isolation (or without having to worry about both at the same time).
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams are very helpful in showing a nonlinear structure and how git log
+traces back through commits via the spacial relationship and connections (shown
+via arrows) between commits.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 

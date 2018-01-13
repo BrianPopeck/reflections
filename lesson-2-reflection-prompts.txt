@@ -20,6 +20,11 @@ but wait until there is a "logical" change made before committing.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When adding experimental features that you are worried may break the program
+or can be seen as side additions and not part of the main project. They may
+help by allowing you to work on developing two different feature sets in 
+isolation (or without having to worry about both at the same time).
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
